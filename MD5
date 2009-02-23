@@ -1,0 +1,13 @@
+84b5e8a932dc577979d5b9a33f58ff89 *DESCRIPTION
+ac0de6b552475d13fc6563379666ae9a *NAMESPACE
+341ccc2e5e7ba6ccfb3ada938fa031c6 *R/baseIt_RM.R
+a69467de44319dcbe53727ca663b2a7a *R/baseIt_SA.R
+952bfb390801d96cbb1a0f494a642822 *R/baseRM.R
+72e4e5ba7dfbac3866dff4bfef50acbd *R/baseSA.R
+8ade16888b8ea68e8bfa6c71a84af370 *R/flubase.R
+e9819140e2f2acf1ae768846695dcbaa *man/baseIt_RM.rd
+38b9095d72c121cea0f1538624e461d3 *man/baseIt_SA.rd
+77e22c047e7a8320b2ea79d498bfcaca *man/baseRM.rd
+eb4738d71c1b86f919cac40c198c27ef *man/baseSA.rd
+ebd3564e70daa1cef942b88fadf90130 *man/flubase-package.Rd
+e3ccdea870350e54a3e90e1d4a0abf74 *man/flubase.Rd
